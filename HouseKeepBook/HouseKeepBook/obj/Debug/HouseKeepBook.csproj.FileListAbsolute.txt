@@ -1,0 +1,11 @@
+C:\Users\takeshi\source\repos\HouseKeepBook\HouseKeepBook\bin\Debug\HouseKeepBook.exe.config
+C:\Users\takeshi\source\repos\HouseKeepBook\HouseKeepBook\bin\Debug\HouseKeepBook.exe
+C:\Users\takeshi\source\repos\HouseKeepBook\HouseKeepBook\bin\Debug\HouseKeepBook.pdb
+C:\Users\takeshi\source\repos\HouseKeepBook\HouseKeepBook\obj\Debug\HouseKeepBook.csprojAssemblyReference.cache
+C:\Users\takeshi\source\repos\HouseKeepBook\HouseKeepBook\obj\Debug\HouseKeepBook.Form1.resources
+C:\Users\takeshi\source\repos\HouseKeepBook\HouseKeepBook\obj\Debug\HouseKeepBook.ItemForm.resources
+C:\Users\takeshi\source\repos\HouseKeepBook\HouseKeepBook\obj\Debug\HouseKeepBook.Properties.Resources.resources
+C:\Users\takeshi\source\repos\HouseKeepBook\HouseKeepBook\obj\Debug\HouseKeepBook.csproj.GenerateResource.cache
+C:\Users\takeshi\source\repos\HouseKeepBook\HouseKeepBook\obj\Debug\HouseKeepBook.csproj.CoreCompileInputs.cache
+C:\Users\takeshi\source\repos\HouseKeepBook\HouseKeepBook\obj\Debug\HouseKeepBook.exe
+C:\Users\takeshi\source\repos\HouseKeepBook\HouseKeepBook\obj\Debug\HouseKeepBook.pdb
